@@ -1,0 +1,11 @@
+.card{
+    width: 500px;
+    height: 300px;
+     flex: auto;
+      top: 30px;
+      left: 30px;
+}
+.card-body{
+    background-color: rgb(233, 248, 236);
+}
+
