@@ -6,3 +6,12 @@ card{
     width: 500px;
     height: 320px;
 }
+.f1{
+    background-color:black;
+    color: white;
+    height: 3.5em;
+    margin-top: 50px;
+}
+footer h6{
+    text-align: center;
+}
